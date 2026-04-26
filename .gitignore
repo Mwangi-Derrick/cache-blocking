@@ -1,3 +1,7 @@
 **target/
 **.exe
 **.dll
+**go-build
+**rustup
+**go-mod
+**go-tmp
